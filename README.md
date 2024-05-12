@@ -1,1 +1,1 @@
-Repository Containing all my solved problems in Striver's AToZ DSA Sheet
+Repository Containing all my solved dsa problems in Striver's AToZ DSA Sheet
